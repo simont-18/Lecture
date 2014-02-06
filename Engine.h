@@ -5,6 +5,7 @@
 using namespace std;
 
 class Engine {
+    int x = 2;
 public:
     Engine();
     Engine(int);
